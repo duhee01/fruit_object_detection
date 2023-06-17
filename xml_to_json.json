@@ -1,0 +1,28 @@
+{
+    "annotation": {
+        "folder": "train",
+        "filename": "apple_1.jpg",
+        "path": "C:\\tensorflow1\\models\\research\\object_detection\\images\\train\\apple_1.jpg",
+        "source": {
+            "database": "Unknown"
+        },
+        "size": {
+            "width": "0",
+            "height": "0",
+            "depth": "3"
+        },
+        "segmented": "0",
+        "object": {
+            "name": "apple",
+            "pose": "Unspecified",
+            "truncated": "0",
+            "difficult": "0",
+            "bndbox": {
+                "xmin": "8",
+                "ymin": "15",
+                "xmax": "331",
+                "ymax": "349"
+            }
+        }
+    }
+}

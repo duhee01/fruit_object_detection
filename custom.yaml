@@ -1,0 +1,10 @@
+names:
+- apple
+- banana
+- orange
+nc: 3
+path: "C:\\Users\\Administrator\\Desktop\\\uB450\uD76C\\Object_Detection-main\\train_zip\\\
+  train"
+train: ./train.txt
+val: valid.txt
+valid: ./train.txt
